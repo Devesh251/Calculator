@@ -1,0 +1,14 @@
+.calculator {
+  text-align: center;
+  border: 1px solid rgba(90, 90, 90);
+  width: 298px;
+
+  border-radius: 5px;
+  margin-left: 40%;
+  margin-top: 2%;
+}
+.heading {
+  font-size: x-large;
+  color: #1b0683;
+  font-weight: 1000;
+}
